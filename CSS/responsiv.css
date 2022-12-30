@@ -1,0 +1,365 @@
+/* ONLT MOBILE VIEW */
+
+
+
+
+
+/*--[ Normal CSS styles ]----------------------------------*/
+
+@media only screen and (max-width: 767px) {
+    .nav {
+
+        width: 58%;
+        margin-right: 20px;
+    }
+
+    .nav li {
+
+        margin-left: 9px;
+
+    }
+
+    .nav a {
+        font-size: 20px;
+        display: block;
+        overflow: hidden;
+    }
+
+    .search {
+
+        width: 18%;
+
+    }
+
+    .single_midel_content {
+        width: 100%;
+        text-align: center;
+
+    }
+
+    .content_header h1 {
+        font-size: 34px;
+        text-align: center;
+    }
+
+    .single_midel_content a {
+        font-size: 14px;
+        padding: 9px 16px;
+    }
+
+    .single_midel_content {
+        width: 100%;
+        text-align: center;
+        height: 31px;
+    }
+
+    .section_header h2 {
+        font-size: 25px;
+    }
+
+    .section_header p {
+        font-size: 13px;
+    }
+
+    .section_2_boxs {
+        margin-left: 0px;
+    }
+
+    .section_2_boxs_single_box {
+
+        width: 100%;
+        margin-bottom: 0px;
+        text-align: center;
+        margin-top: 40px;
+    }
+
+    .header_btn {
+        margin: 22vh auto 0 auto;
+    }
+
+    .section_2_boxs_single_box i {
+        color: #54D054;
+        background-color: #E2F3E1;
+        padding: 10px;
+        border-radius: 8px;
+        font-size: 39px;
+        box-sizing: border-box;
+        margin-bottom: 5px;
+    }
+
+    .section_2_boxs_single_box h3 {
+        font-size: 22px;
+        margin-bottom: 6px;
+        color: #818181;
+    }
+
+    .section_2_boxs_single_box p {
+        width: 43%;
+        margin: auto;
+        font-size: 12px;
+        color: #818181;
+        opacity: .7;
+        margin-bottom: 15px;
+    }
+
+    .section_2_boxs_single_box a {
+        background-color: #54D054;
+        padding: 3px 20px;
+        color: #FFF;
+        font-size: 14px;
+        border-radius: 20px;
+    }
+
+    .section_2 {
+
+        padding-bottom: 58px;
+    }
+
+    #first-child {
+        margin: 0px;
+
+    }
+
+    .all_img {
+        margin-top: 55px;
+
+        margin-left: 0px;
+        margin-bottom: 72px;
+    }
+
+    .single_img {
+        float: left;
+        width: 47%;
+        margin-top: 20px;
+        text-align: center;
+    }
+
+    .testemonia_contants {
+        overflow: hidden;
+        display: block;
+        font-family: roboto;
+        margin-left: 5px;
+        padding-top: 22px;
+    }
+
+    .single_testemonia_contants {
+        width: 33%;
+        float: left;
+    }
+
+    .testemonia_text {
+        font-size: 15px;
+
+    }
+
+    .icon_right_left {
+        font-size: 40px;
+    }
+
+    .testemonial_logo {
+        display: block;
+        overflow: hidden;
+        margin-top: 30px;
+        margin-left: 34%;
+        margin-bottom: 70px;
+    }
+
+    .section_header h2 {
+        font-size: 20px;
+    }
+
+    .section_header h2::after {
+
+        width: 35px;
+
+    }
+
+    .claint_boxs {
+        margin: 40px 0 78px 80px;
+
+    }
+
+    .single_claint_box {
+        width: 49%;
+
+    }
+
+    .claint_link a {
+
+        font-size: 17px;
+        padding: 3px;
+        width: 144px;
+
+    }
+
+    .single_team_box {
+        float: none;
+        width: 100%;
+        margin: auto;
+        text-align: center;
+        margin-left: 0px;
+        margin-bottom: 24px;
+    }
+
+    .single_team_box_img img {
+
+        width: 70px;
+        height: 70px;
+
+    }
+
+    .single_team_box h3::before {
+
+        width: 2px;
+        height: 41px;
+
+    }
+
+    .single_team_box h3 {
+        font-size: 18px;
+
+    }
+
+    .team_logo i {
+        font-size: 15px;
+
+    }
+
+    .team_logo {
+        width: 106px;
+        padding: 2px 0;
+    }
+
+    .team_link2 a {
+        font-size: 18px;
+        line-height: 27px;
+        width: 170px;
+    }
+
+    .team_link2 {
+        padding: 11px 0;
+    }
+
+    .single_contact_box {
+        float: none;
+        width: 100%;
+        margin-bottom: 50px;
+        margin-left: 0px;
+    }
+
+    .single_contact_box h2 {
+        font-size: 20px;
+        margin-bottom: 18px;
+    }
+
+    .single_contact_box p {
+
+        margin-bottom: 20px;
+        font-size: 13px;
+        line-height: 21px;
+    }
+
+    .single_post_text h3 {
+        font-size: 16px;
+    }
+
+    .single_post_text h4 {
+        font-size: 12px;
+        margin-top: 3px;
+    }
+
+    .pos_h4_1 {
+        width: 70px;
+
+    }
+
+    .pos_h4_2 {
+        width: 74px;
+    }
+
+    .pos_h4_3 {
+        width: 103px;
+
+    }
+
+    .pos_h4_5 {
+        width: 74px;
+
+    }
+
+    .pos_h4_4 {
+
+        width: 50px;
+
+    }
+
+    #single_contact_box_contact {
+       
+        padding-top: 50px;
+        overflow: hidden;
+    }
+    .contact_section {
+       
+        padding: 50px 0 0px 0;
+    }
+    form {
+       
+        width: 100%;
+    }
+    input[type="text" i] {
+       
+        width: 100%;
+        padding: 4px;
+       
+        font-size: 20px;
+    }
+    input[type="email" i] {
+       
+        width: 100%;
+        padding: 4px;
+       
+        font-size: 20px;
+    }
+    input[type="button" i] {
+       
+        width: 100%;
+        padding: 4px;
+       
+        font-size: 20px;
+        text-align: center;
+    }
+    form textarea{
+       
+        width: 100%;
+        padding: 4px;
+       
+        font-size: 20px;
+    }
+    .header_footer h2 {
+        font-size: 20px;}
+        .header_footer h2::after {
+          
+            width: 36px;
+            height: 2px;
+            
+        }
+        .footer_img_single {
+            float: left;
+            overflow: hidden;
+            width: 45%;
+            margin-left: 25px;
+            
+            margin-bottom: 20px;
+        }
+        .copy_right p {
+          
+            margin-bottom: 0px;
+        }
+       
+
+
+
+
+
+
+}
